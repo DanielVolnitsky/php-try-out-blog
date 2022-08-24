@@ -1,2 +1,1 @@
-# php-try-out-blog
-A project to try out PHP language
+A project to try out the PHP language
